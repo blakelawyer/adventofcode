@@ -1,4 +1,4 @@
-file = open("./trebuchet.txt", "r")
+file = open("input.txt", "r")
 lines = [line.strip() for line in file]
 
 total = 0
